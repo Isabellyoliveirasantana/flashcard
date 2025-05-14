@@ -1,7 +1,8 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Biotecnologia'      
+    'O que é biotecnologia',
+    'A biotecnologia é um campo amplo que usa organismos vivos, ou componentes deles, para desenvolver produtos, processos e tecnologias.'
+)'
 )
 
 criaCartao(
