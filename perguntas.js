@@ -13,8 +13,8 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Que país tem o formato de uma bota? ',
+    'A Itália é o país que tem o formato de uma bota'
 )
 
 criaCartao(
